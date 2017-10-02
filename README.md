@@ -2,7 +2,7 @@
 Jogo da velha feito em react.js
 
 Jogo original completo disponívewl em:
-https://github.com/opetstudio/react-tic-tac-toe/blob
+https://github.com/opetstudio/react-tic-tac-toe
 
 Clone e instale
 
